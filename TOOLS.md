@@ -1,6 +1,6 @@
 # Herramientas disponibles
 
-Este catálogo describe las herramientas disponibles para una organización autorizada. Cada una está diseñada para consultas de solo lectura y para responder preguntas operativas sin exponer datos personales.
+Este catálogo describe las herramientas disponibles para una organización autorizada. Cada una está diseñada para consultas de solo lectura y para responder preguntas operativas minimizando la exposición de datos personales.
 
 ## `get_whatsapp_readiness`
 
