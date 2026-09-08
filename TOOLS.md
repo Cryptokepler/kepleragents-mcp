@@ -40,7 +40,7 @@ Este catálogo describe las herramientas disponibles para una organización auto
 
 **Qué devuelve:** resultados acotados de una búsqueda de transacciones, con su estado y referencias operativas.
 
-**Límites:** solo lectura; la consulta está limitada y autorizada; no expone datos personales; disponible únicamente para la organización autorizada.
+**Límites:** solo lectura; la consulta está limitada y autorizada; las búsquedas por identidad de cliente están restringidas y quedan auditadas; disponible únicamente para la organización autorizada.
 
 ## `get_treasury_snapshot`
 
