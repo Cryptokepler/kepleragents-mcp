@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.kepleragents/kepleragents-mcp",
+  "title": "KeplerAgents",
+  "description": "Read-only access to authorized business operations through KeplerAgents.",
+  "repository": {
+    "url": "https://github.com/Cryptokepler/kepleragents-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.kepleragents.com/mcp"
+    }
+  ]
+}

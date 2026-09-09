@@ -22,6 +22,14 @@ Funciona con ChatGPT y Claude. Inicia sesión, autoriza el acceso que correspond
 - [Principios de seguridad](SECURITY.md)
 - [Casos de uso](USE-CASES.md)
 
-Para conocer KeplerAgents, visita [kepleragents.com](https://kepleragents.com) o escribe a [info@kepleragents.com](mailto:info@kepleragents.com).
+Para conocer KeplerAgents, visita [kepleragents.com](https://kepleragents.com), escríbenos por [WhatsApp al +52 442 463 7790](https://wa.me/524424637790) o envía un correo a [info@kepleragents.com](mailto:info@kepleragents.com).
+
+## Validación del descriptor público
+
+El descriptor de registro se valida localmente, sin publicar ni usar credenciales; el mismo control se ejecuta en cada pull request:
+
+```sh
+node scripts/validate-public-assets.mjs
+```
 
 Desarrollado bajo un protocolo propio de seguridad y verificación.

@@ -10,3 +10,7 @@ KeplerAgents se diseñó para que el uso de agentes de IA respete los límites d
 - **Procedencia antes que apariencia.** Que un mensaje diga “pagué” no significa que se pagó: preservamos la procedencia.
 
 El acceso puede retirarse en cualquier momento desde la configuración de la conexión correspondiente.
+
+## Reportar un problema de seguridad
+
+Envía los detalles de forma privada a [info@kepleragents.com](mailto:info@kepleragents.com). No publiques credenciales, tokens, datos personales ni información de clientes en issues públicos.
