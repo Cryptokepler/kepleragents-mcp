@@ -16,6 +16,6 @@
 4. Autoriza el acceso que corresponda a tu organización.
 5. Formula una pregunta en lenguaje natural dentro de tu conversación.
 
-Si no ves KeplerAgents entre las opciones disponibles, consulta con la persona administradora de tu organización o escríbenos a [info@kepleragents.com](mailto:info@kepleragents.com).
+Si no ves KeplerAgents entre las opciones disponibles, consulta con la persona administradora de tu organización, escríbenos por [WhatsApp al +52 442 463 7790](https://wa.me/524424637790) o envía un correo a [info@kepleragents.com](mailto:info@kepleragents.com).
 
 La disponibilidad de cada herramienta depende del acceso autorizado para tu organización.
