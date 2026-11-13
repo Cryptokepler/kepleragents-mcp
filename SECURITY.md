@@ -2,7 +2,8 @@
 
 KeplerAgents se diseñó para que el uso de agentes de IA respete los límites de cada organización.
 
-- **Solo lectura.** Las herramientas descritas aquí responden consultas y no ejecutan cambios operativos.
+- **Solo lectura por defecto.** Las herramientas responden consultas y no ejecutan cambios operativos. La única acción disponible, responder por WhatsApp, exige un borrador previo y la aprobación de una persona antes de enviarse.
+- **Nunca mueve dinero.** Ninguna herramienta crea pagos, mueve fondos ni cambia saldos.
 - **Una identidad, una organización.** Cada consulta se mantiene dentro de la organización autorizada.
 - **Sin credenciales en manos del agente.** El agente nunca recibe datos de acceso ni credenciales.
 - **Acceso controlado.** Los permisos los decide KeplerAgents según la organización y el producto habilitado.

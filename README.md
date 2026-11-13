@@ -1,6 +1,6 @@
 # Servidor MCP (Model Context Protocol) de KeplerAgents
 
-KeplerAgents conecta ChatGPT y Claude con la operación autorizada de tu negocio para responder preguntas útiles de forma clara, con acceso de solo lectura y trazabilidad.
+KeplerAgents conecta ChatGPT y Claude con la operación autorizada de tu negocio para responder preguntas útiles de forma clara, con acceso de solo lectura, respuestas por WhatsApp que una persona aprueba antes de enviarse y trazabilidad.
 
 ## Preguntas que puedes hacer
 
@@ -10,6 +10,8 @@ KeplerAgents conecta ChatGPT y Claude con la operación autorizada de tu negocio
 - ¿Qué grupos de WhatsApp están sincronizados?
 - ¿Cuál es la posición actual de tesorería?
 - ¿Qué información falta para preparar un producto?
+- ¿Qué se dijo en este grupo de WhatsApp y qué dice el comprobante que enviaron?
+- Prepara una respuesta para este chat, que yo la apruebo antes de enviarla.
 
 KeplerAgents está pensado para equipos que operan negocios de remesas, casas de cambio y atención por WhatsApp, entre otros casos de operación comercial.
 
